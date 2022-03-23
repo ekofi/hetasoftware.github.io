@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Software Development",
+    "description": "We build software that society needs.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Digital Game Development",
+    "description": "We make games that make people happy.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Server Development",
+    "description": "We support games with our servers in other game projects.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
